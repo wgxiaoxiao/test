@@ -6,6 +6,5 @@ if (a > 1)
 }
 else{
     return 1;
-}
-	
+}	
 }
